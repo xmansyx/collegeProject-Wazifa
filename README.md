@@ -8,5 +8,5 @@ users can add posts, like, comment, share, communicate, etc..
 
 
 ## Usage
-```downlaod > move to your server > add sql to your database > ready to go
-...```
+downlaod > move to your server > add sql to your database > ready to go
+...
