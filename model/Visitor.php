@@ -74,7 +74,7 @@ public function checkinfo($username,$email,$age,$password,$fname,$lname){
       return true;		
     }
     else{
-      echo "a7aa";;
+      echo "no";
     }
 
 
